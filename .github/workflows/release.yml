@@ -12,7 +12,7 @@ env:
   BIN_NAME: lox
   PROJECT_NAME: lox
   REPO_NAME: reubenwong97/lox
-  BREW_TAP: jondot/homebrew-tap
+  # BREW_TAP: jondot/homebrew-tap
 
 jobs:
   dist:
