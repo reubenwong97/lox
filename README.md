@@ -1,0 +1,2 @@
+# lox
+Lox is a fully-fledged interpreter built in the first section of the awesome book [Crafting Interpreters](https://craftinginterpreters.com/). The book uses Java to do this, but I will be writing it in Rust as a newbie Rust developer.
