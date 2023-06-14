@@ -5,6 +5,9 @@ use std::path::PathBuf;
 
 use clap::Parser;
 
+mod interpreter;
+mod io_util;
+
 #[derive(Parser)]
 #[command(author, version, about, long_about=None)]
 struct Args {
